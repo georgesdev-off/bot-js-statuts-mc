@@ -1,2 +1,9 @@
 # bot-js-statuts-mc
-bot discord js v14 qui permet de affichier sur son statuts le nombre de joueur dans un serveur minecraft et dans le salon config un embed avec des info du status
+
+1. Remplissez les champs du fichier `config.yml` (`Nom du Serveur`, `Votre Token`, `Adresse IP du Serveur`, `Id du Salon`).
+
+2. Installez les modules avec la commande `npm install`.
+
+3. Faites `node index.js` pour lancer votre **Bot** !
+
+Pour toutes questions, rejoignez mon [serveur Discord](https://discord.gg/rkRpKpV6xV) !

@@ -1,0 +1,11 @@
+name: "name"
+lang: "fr"
+token: "token" # Discord bot token
+interval: 10000 # ms
+server: "aladium.aternos.me"
+
+message:
+  enabled: true
+  channel: "id" # Channel id
+status:
+  enabled: true

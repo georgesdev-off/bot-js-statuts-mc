@@ -1,0 +1,8 @@
+login: "Connecté en tant que {bot}!"
+status: "👀 {online}/{max}"
+online: "Le serveur est en ligne"
+offline: "Le serveur est hors ligne"
+players: "😃 Joueurs"
+ping: "🏓 Ping"
+version: "🧭 Version"
+update: "Dernière mise à jour"
